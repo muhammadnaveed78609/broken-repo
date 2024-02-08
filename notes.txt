@@ -1,0 +1,7 @@
+Project Notes
+=============
+
+This file contains important project notes.
+
+- Started project on 2022-01-15
+- Initial planning phase completed
